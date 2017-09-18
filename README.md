@@ -1,6 +1,6 @@
 # hello-world
 Hello World
 
-Ariana Grande is my wife.
+I am an IMM major.
 
-CM Punk is my uncle.
+CM Punk is the best in the world.
